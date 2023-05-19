@@ -11,12 +11,12 @@ const manifestForPlugin: Partial<VitePWAOptions> = {
     description: "A test to prompt PWA installation",
     icons: [
       {
-        src: "/android-chrome-192x192.png",
+        src: "/icon-192x192.png",
         sizes: "192x192",
         format: "image/png",
       },
       {
-        src: "/android-chrome-512x512.png",
+        src: "/icon-512x512.png",
         sizes: "512x512",
         format: "image/png",
       },
